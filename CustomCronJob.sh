@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# @Author : Siddhi Naik, CWID: A20444173
-#The Shell Script "CustomCronJob" runs a script that lets user create a custom cronjob
-#And then lets user add more jobs, modify or delete them 
 
 hostname=`hostname`
 
