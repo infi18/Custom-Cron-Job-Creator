@@ -1,0 +1,2 @@
+2 5 * * * root/backup.sh
+2 10 * * * root/backup.sh
